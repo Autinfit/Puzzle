@@ -6,4 +6,4 @@
 - **_All of the components will be pure windows form and C# programming._**
 - **_Sliding image puzzle is a game I have been meaning to do in windows form because its one of the most requested and well-known game._**
 - **_Its not difficult to do but finding the right resources to do it is another question._**
-- For this tutorial we made sure to including all of the source codes and refactored the code to make it easier for beginner programmers to follow.
+- _For this tutorial we made sure to including all of the source codes and refactored the code to make it easier for beginner programmers to follow._

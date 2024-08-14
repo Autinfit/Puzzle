@@ -1,6 +1,6 @@
 # Puzzle
 
-- _In this tutorial we will be making a Sliding Image  Puzzle game._
+- **_In this tutorial we will be making a Sliding Image  Puzzle game._**
 - This game will be made using only  windows form, C# and .NET in visual studio.
 - We will not be adding third party framework to make this application or use any games engine such as Unity or GODOT.
 - All of the components will be pure windows form and C# programming.

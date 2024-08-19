@@ -16,4 +16,5 @@
 
 - For this game, it won’t use pre-made sliced images instead it will use the browse feature to import an image to the application, crop the image to match the tiles in the game and then load them to a picture box.
 - There is also a win condition in the code when you matched all of the pictures.
-- At any time, you can load another image and play it through. In the code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle.
+- At any time, you can load another image and play it through.
+- In the code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle.

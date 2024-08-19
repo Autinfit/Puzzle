@@ -14,7 +14,7 @@
   
 - **_For this tutorial we made sure to including all of the source codes and refactored the code to make it easier for beginner programmers to follow._**
 
-- For this game, it won’t use pre-made sliced images instead it will use the browse feature to import an image to the application, crop the image to match the tiles in the game and then load them to a picture box.
+- _For this game, it won’t use pre-made sliced images instead it will use the browse feature to import an image to the application, crop the image to match the tiles in the game and then load them to a picture box._
   
 - There is also a win condition in the code when you matched all of the pictures.
   

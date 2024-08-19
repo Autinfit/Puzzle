@@ -18,6 +18,6 @@
   
 - **_There is also a win condition in the code when you matched all of the pictures._**
   
-- _At any time, you can load another image and play it through._
+- **_At any time, you can load another image and play it through._**
   
 - In the code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle.

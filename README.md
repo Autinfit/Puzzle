@@ -1,4 +1,4 @@
-# Puzzle
+# _Puzzle_
 
 - **_In this tutorial we will be making a Sliding Image  Puzzle game._**
   

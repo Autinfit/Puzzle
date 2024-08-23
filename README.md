@@ -21,6 +21,7 @@
 - **_At any time, you can load another image and play it through._**
   
 - **_In the code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle._**
+  
 En este tutorial crearemos un juego de rompecabezas de imágenes deslizantes.
 
 Este juego se creará utilizando únicamente Windows, C# y .NET en Visual Studio.

@@ -42,6 +42,6 @@ Traducido del español:
 
 - También hay una condición de ganancia en el código cuando coincides con todas las imágenes.
 
-En cualquier momento, puedes cargar otra imagen y reproducirla.
+- En cualquier momento, puedes cargar otra imagen y reproducirla.
 
 En el código verás que tenemos una función de reproducción aleatoria que mezclará las imágenes cuando se cargue para que puedas comenzar a resolver el rompecabezas.

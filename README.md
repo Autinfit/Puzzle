@@ -28,7 +28,7 @@ Traducido del español:
 
 - Este juego se creará utilizando únicamente Windows, C# y .NET en Visual Studio.
 
-No agregaremos marcos de terceros para crear esta aplicación ni utilizaremos ningún motor de juegos como Unity o GODOT.
+- No agregaremos marcos de terceros para crear esta aplicación ni utilizaremos ningún motor de juegos como Unity o GODOT.
 
 Todos los componentes serán programación pura de Windows y C#.
 

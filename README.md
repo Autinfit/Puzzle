@@ -40,7 +40,7 @@ Traducido del español:
 
 - Para este juego, no utilizará imágenes cortadas prefabricadas, sino que utilizará la función de exploración para importar una imagen a la aplicación, recortar la imagen para que coincida con los mosaicos del juego y luego cargarlas en un cuadro de imagen.
 
-También hay una condición de ganancia en el código cuando coincides con todas las imágenes.
+- También hay una condición de ganancia en el código cuando coincides con todas las imágenes.
 
 En cualquier momento, puedes cargar otra imagen y reproducirla.
 

@@ -28,7 +28,7 @@
 
 - **_Este juego se creará utilizando únicamente Windows, C# y .NET en Visual Studio._**
 
-- _No agregaremos marcos de terceros para crear esta aplicación ni utilizaremos ningún motor de juegos como Unity o GODOT._
+- **_No agregaremos marcos de terceros para crear esta aplicación ni utilizaremos ningún motor de juegos como Unity o GODOT._**
 
 - Todos los componentes serán programación pura de Windows y C#.
 

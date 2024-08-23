@@ -21,3 +21,24 @@
 - **_At any time, you can load another image and play it through._**
   
 - **_In the code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle._**
+En este tutorial crearemos un juego de rompecabezas de imágenes deslizantes.
+
+Este juego se creará utilizando únicamente Windows, C# y .NET en Visual Studio.
+
+No agregaremos marcos de terceros para crear esta aplicación ni utilizaremos ningún motor de juegos como Unity o GODOT.
+
+Todos los componentes serán programación pura de Windows y C#.
+
+El rompecabezas de imágenes deslizantes es un juego que tenía intención de hacer en formato Windows porque es uno de los más solicitados y conocidos.
+
+No es difícil de hacer, pero encontrar los recursos adecuados para hacerlo es otra cuestión.
+
+Para este tutorial, nos aseguramos de incluir todos los códigos fuente y refactorizamos el código para que sea más fácil de seguir para los programadores principiantes.
+
+Para este juego, no utilizará imágenes cortadas prefabricadas, sino que utilizará la función de exploración para importar una imagen a la aplicación, recortar la imagen para que coincida con los mosaicos del juego y luego cargarlas en un cuadro de imagen.
+
+También hay una condición de ganancia en el código cuando coincides con todas las imágenes.
+
+En cualquier momento, puedes cargar otra imagen y reproducirla.
+
+En el código verás que tenemos una función de reproducción aleatoria que mezclará las imágenes cuando se cargue para que puedas comenzar a resolver el rompecabezas.

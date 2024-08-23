@@ -24,7 +24,7 @@
 
 Traducido del español:
   
-En este tutorial crearemos un juego de rompecabezas de imágenes deslizantes.
+- En este tutorial crearemos un juego de rompecabezas de imágenes deslizantes.
 
 Este juego se creará utilizando únicamente Windows, C# y .NET en Visual Studio.
 

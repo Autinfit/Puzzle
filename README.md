@@ -22,7 +22,7 @@
   
 - **_In the code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle._**
 
-Traducido del español:
+_Traducido del español:_
   
 - En este tutorial crearemos un juego de rompecabezas de imágenes deslizantes.
 

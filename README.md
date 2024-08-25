@@ -34,7 +34,7 @@
 
 - _El rompecabezas de imágenes deslizantes es un juego que tenía intención de hacer en formato Windows porque es uno de los más solicitados y conocidos._
 
-- No es difícil de hacer, pero encontrar los recursos adecuados para hacerlo es otra cuestión.
+- _No es difícil de hacer, pero encontrar los recursos adecuados para hacerlo es otra cuestión._
 
 - Para este tutorial, nos aseguramos de incluir todos los códigos fuente y refactorizamos el código para que sea más fácil de seguir para los programadores principiantes.
 

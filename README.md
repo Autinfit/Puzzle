@@ -32,7 +32,7 @@
 
 - _Todos los componentes serán programación pura de Windows y C#._
 
-- El rompecabezas de imágenes deslizantes es un juego que tenía intención de hacer en formato Windows porque es uno de los más solicitados y conocidos.
+- _El rompecabezas de imágenes deslizantes es un juego que tenía intención de hacer en formato Windows porque es uno de los más solicitados y conocidos._
 
 - No es difícil de hacer, pero encontrar los recursos adecuados para hacerlo es otra cuestión.
 

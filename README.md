@@ -44,4 +44,4 @@
 
 - _En cualquier momento, puedes cargar otra imagen y reproducirla._
 
-- En el código verás que tenemos una función de reproducción aleatoria que mezclará las imágenes cuando se cargue para que puedas comenzar a resolver el rompecabezas.
+- _En el código verás que tenemos una función de reproducción aleatoria que mezclará las imágenes cuando se cargue para que puedas comenzar a resolver el rompecabezas._

@@ -42,6 +42,6 @@
 
 - _También hay una condición de ganancia en el código cuando coincides con todas las imágenes._
 
-- _En cualquier momento, puedes cargar otra imagen y reproducirla._
+- **_En cualquier momento, puedes cargar otra imagen y reproducirla._**
 
 - **_En el código verás que tenemos una función de reproducción aleatoria que mezclará las imágenes cuando se cargue para que puedas comenzar a resolver el rompecabezas._**

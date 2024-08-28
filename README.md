@@ -1,6 +1,6 @@
 # **_Puzzle_**
 
-- **_In this tutorial we will be making a Sliding Image  Puzzle game._**
+- **_In this tutorial we will be making a Sliding Image Puzzle game._**
   
 - **_This game will be made using only  windows form, C# and .NET in visual studio._**
   

@@ -38,7 +38,7 @@
 
 - **_Para este tutorial, nos aseguramos de incluir todos los códigos fuente y refactorizamos el código para que sea más fácil de seguir para los programadores principiantes._**
 
-- **_Para este juego, no se utilizará imágenes cortadas prefabricadas, sino que utilizará la función de exploración para importar una imagen a la aplicación, recortar la imagen para que coincida con los mosaicos del juego y luego cargarlas en un cuadro de imagen._**
+- **_Para este juego, no se utilizará imágenes cortadas prefabricadas, sino que se utilizará la función de exploración para importar una imagen a la aplicación, recortar la imagen para que coincida con los mosaicos del juego y luego cargarlas en un cuadro de imagen._**
 
 - **_También hay una condición de ganancia en el código cuando coincides con todas las imágenes._**
 

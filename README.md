@@ -20,7 +20,7 @@
   
 - **_At any time, you can load another image and play it through._**
   
-- **_In the code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle._**
+- **_In this code you will see we have a shuffle feature where it will shuffle the images when it loads so you can get right into solving the puzzle._**
 
 **_Traducido del español:_**
   

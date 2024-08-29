@@ -24,7 +24,7 @@
 
 **_Traducido del español:_**
   
-- **_En este tutorial crearemos un juego de Rompecabezas de imágenes deslizantes._**
+- **_En este tutorial crearemos un juego de Rompecabezas de Imágenes deslizantes._**
 
 - **_Este juego se creará utilizando únicamente Windows, C# y .NET en Visual Studio._**
 

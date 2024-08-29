@@ -6,7 +6,7 @@
   
 - **_We will not be adding third party framework to make this application or use any games engine such as Unity or GODOT._**
   
-- **_All of the components will be pure windows form and C# programming._**
+- **_All of the components will be pure windows form with C# programming._**
   
 - **_Sliding image puzzle is a game I have been meaning to do in windows form because its one of the most requested and well-known game._**
   

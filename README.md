@@ -26,7 +26,7 @@
   
 - **_En este tutorial crearemos un juego de Rompecabezas de Imágenes Deslizantes._**
 
-- **_Este juego se creará utilizando únicamente Windows, C# y .NET en Visual Studio._**
+- **_Este juego se creará utilizando Windows, C# y .NET en Visual Studio._**
 
 - **_No agregaremos marcos de terceros para crear esta aplicación ni utilizaremos ningún motor de juegos como Unity o GODOT._**
 

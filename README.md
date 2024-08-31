@@ -40,7 +40,7 @@
 
 - **_Para este juego, no se utilizará imágenes cortadas prefabricadas, sino que se utilizará la función de exploración para importar una imagen a la aplicación, recortar la imagen para que coincida con los mosaicos del juego y luego cargarlas en un cuadro de imagen._**
 
-- **_También hay una condición de ganancia en el código cuando coincides con todas las imágenes._**
+- **_También hay una condición de ganancias en el código cuando coincides con todas las imágenes._**
 
 - **_En cualquier momento, puedes cargar otra imagen y reproducirla._**
 
